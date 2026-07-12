@@ -36,3 +36,13 @@ Building Scalable Software & Intelligent AI Solutions
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI%2FML+Enthusiast;Research+Intern+%40+NIT+Rourkela;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
   </a>
 </p>
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year B.Tech in Computer Science & Engineering (AI/ML)
+- 🔬 Research Intern at **NIT Rourkela**
+- 🏭 Former Vocational Trainee at **SAIL**
+- 💻 Passionate about **Software Engineering, Backend Development & AI**
+- 🚀 Currently building real-world software and AI solutions
+- 📚 Continuously improving my DSA and system design skills
+- 🎯 Goal: Secure a Software Engineering role and build impactful products
