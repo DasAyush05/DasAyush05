@@ -31,3 +31,8 @@ Building Scalable Software & Intelligent AI Solutions
 </a>
 
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+Developer;AI%2FML+Enthusiast;Research+Intern+%40+NIT+Rourkela;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+  </a>
+</p>
