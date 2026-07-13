@@ -75,8 +75,18 @@ Building Scalable Software & Intelligent AI Solutions
 </p>
 ## 💼 Experience
 
-🔬 **Research Intern**
-**National Institute of Technology Rourkela**
+### 🔬 Research Intern | National Institute of Technology (NIT) Rourkela
+**May 2025 – Jul 2025**
 
-🏭 **Vocational Trainee**
-**Steel Authority of India Limited (SAIL)**
+- Developed deep learning models for coffee leaf disease detection using **MobileNetV2** and **DenseNet201**.
+- Achieved **96.12% classification accuracy** through transfer learning and model optimization.
+- Worked with **Python, TensorFlow, OpenCV, Pandas, NumPy, Matplotlib, and Scikit-learn**.
+- Collaborated on AI research involving data preprocessing, model evaluation, and performance analysis.
+
+---
+
+### 🏭 Vocational Trainee | Rourkela Steel Plant (SAIL)
+**May 2025 – Jun 2025**
+
+- Gained practical exposure to industrial automation, manufacturing processes, and engineering workflows.
+- Studied quality assurance, safety standards, and instrumentation in a large-scale steel manufacturing environment.
