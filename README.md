@@ -73,6 +73,7 @@ Building Scalable Software & Intelligent AI Solutions
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
+
 ## 💼 Experience
 
 ### 🔬 Research Intern | National Institute of Technology (NIT) Rourkela
