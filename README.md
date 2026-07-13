@@ -91,3 +91,88 @@ Building Scalable Software & Intelligent AI Solutions
 
 - Gained practical exposure to industrial automation, manufacturing processes, and engineering workflows.
 - Studied quality assurance, safety standards, and instrumentation in a large-scale steel manufacturing environment.
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 👨‍💼 Employee Management System
+
+A Flask-based web application to manage employee records with CRUD operations, authentication, search, and SQLite integration.
+
+**Tech Stack**
+
+`Python` `Flask` `SQLite` `HTML` `CSS`
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+🌐 **Live Demo:** *(Add Render Link)*
+
+</td>
+
+<td width="50%">
+
+### 📅 Leave Management System
+
+A role-based leave management platform with employee authentication, leave approval workflow, dashboard analytics, and CSV export.
+
+**Tech Stack**
+
+`Python` `Flask` `MySQL` `Bootstrap`
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+🌐 **Live Demo:** *(Add Render Link)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌱 Coffee Leaf Disease Detection
+
+A deep learning model using MobileNetV2 and DenseNet201 that achieved **96.12% classification accuracy** for automated coffee leaf disease detection.
+
+**Tech Stack**
+
+`Python`
+
+`TensorFlow`
+
+`OpenCV`
+
+`Keras`
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+A modern responsive portfolio showcasing projects, technical skills, achievements, and contact information.
+
+**Tech Stack**
+
+`React`
+
+`JavaScript`
+
+`Tailwind`
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+🌐 **Live Demo:** https://dasayush05.github.io
+
+</td>
+
+</tr>
+
+</table>
