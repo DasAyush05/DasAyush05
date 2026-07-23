@@ -201,3 +201,30 @@ A modern responsive portfolio showcasing projects, technical skills, achievement
 <img src="https://komarev.com/ghpvc/?username=DasAyush05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DasAyush05&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+## 🚀 Currently Working On
+
+- 🔭 Building **InsightIQ – AI-Powered Enterprise Analytics Platform**
+- 🌱 Learning **Advanced Data Analysis & AI Agents**
+- 💻 Solving **LeetCode Problems Daily**
+- 📚 Preparing for Software Engineering Placements
+
+  ## 💭 Developer Philosophy
+
+> "Code with purpose. Learn continuously. Build products that solve real problems."
