@@ -176,3 +176,12 @@ A modern responsive portfolio showcasing projects, technical skills, achievement
 </tr>
 
 </table>
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DasAyush05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DasAyush05&theme=tokyonight&hide_border=true"/>
+
+</p>
