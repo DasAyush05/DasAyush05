@@ -185,3 +185,19 @@ A modern responsive portfolio showcasing projects, technical skills, achievement
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DasAyush05&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasAyush05&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DasAyush05&theme=tokyo-night&hide_border=true)](https://github.com/DasAyush05)
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DasAyush05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
