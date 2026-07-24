@@ -107,7 +107,7 @@ A Flask-based web application to manage employee records with CRUD operations, a
 
 `Python` `Flask` `SQLite` `HTML` `CSS`
 
-🔗 **Repository:** [*(Add GitHub Link)*](https://github.com/DasAyush05/employee-management-system)
+🔗 **Repository:** [*(Click Here !!)*](https://github.com/DasAyush05/employee-management-system)
 
 🌐 **Live Demo:** *(Add Render Link)*
 
