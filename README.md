@@ -123,7 +123,7 @@ A role-based leave management platform with employee authentication, leave appro
 
 `Python` `Flask` `MySQL` `Bootstrap`
 
-🔗 **Repository:** *(Add GitHub Link)*
+🔗 **Repository:** [*(Add GitHub Link)*](https://github.com/DasAyush05/Leave-Management-System)
 
 🌐 **Live Demo:** *(Add Render Link)*
 
